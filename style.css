@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: "Playwrite DE Grund", cursive;
+    color: white;
+    background-color: black;
+    border: 1px solid gold;
+    
+}
+
+a {
+    color: antiquewhite;
+    font-size: 14px;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 18px;
+}
+
